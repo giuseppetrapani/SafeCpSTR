@@ -1,6 +1,6 @@
 # Safe String Copy (C)
 
-- Funzione in C per copiare stringhe in modo sicuro + esempio nel codice.
+- Funzione in C per copiare stringhe in modo sicuro + esempio nella main.
 - Evita buffer overflow, gestisce puntatori NULL e garantisce sempre il terminatore null (\0).
 
 ## Funzione principale
